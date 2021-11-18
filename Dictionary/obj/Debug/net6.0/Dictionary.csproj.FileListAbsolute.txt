@@ -1,0 +1,15 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\bin\Debug\net6.0\Dictionary.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\bin\Debug\net6.0\Dictionary.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\bin\Debug\net6.0\ref\Dictionary.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache

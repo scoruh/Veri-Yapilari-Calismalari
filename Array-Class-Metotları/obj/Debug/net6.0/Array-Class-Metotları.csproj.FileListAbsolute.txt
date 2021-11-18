@@ -1,0 +1,15 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\bin\Debug\net6.0\Array-Class-Metotları.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\bin\Debug\net6.0\Array-Class-Metotları.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\bin\Debug\net6.0\Array-Class-Metotları.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\bin\Debug\net6.0\Array-Class-Metotları.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\bin\Debug\net6.0\ref\Array-Class-Metotları.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\bin\Debug\net6.0\Array-Class-Metotları.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.csproj.AssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\ref\Array-Class-Metotları.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Array-Class-Metotları\obj\Debug\net6.0\Array-Class-Metotları.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\bin\Debug\net6.0\SortedList-Uygulamasi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\bin\Debug\net6.0\SortedList-Uygulamasi.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\bin\Debug\net6.0\SortedList-Uygulamasi.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\bin\Debug\net6.0\SortedList-Uygulamasi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\bin\Debug\net6.0\ref\SortedList-Uygulamasi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\bin\Debug\net6.0\SortedList-Uygulamasi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\ref\SortedList-Uygulamasi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.genruntimeconfig.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedList-Uygulamasi\obj\Debug\net6.0\SortedList-Uygulamasi.csproj.AssemblyReference.cache

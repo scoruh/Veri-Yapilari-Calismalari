@@ -1,0 +1,15 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\bin\Debug\net6.0\LinkedList.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\bin\Debug\net6.0\LinkedList.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\bin\Debug\net6.0\LinkedList.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\bin\Debug\net6.0\ref\LinkedList.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.genruntimeconfig.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache

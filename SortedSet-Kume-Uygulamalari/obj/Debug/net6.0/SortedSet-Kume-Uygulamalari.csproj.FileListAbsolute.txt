@@ -1,0 +1,14 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\bin\Debug\net6.0\SortedSet-Kume-Uygulamalari.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\bin\Debug\net6.0\SortedSet-Kume-Uygulamalari.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\bin\Debug\net6.0\SortedSet-Kume-Uygulamalari.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\bin\Debug\net6.0\SortedSet-Kume-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\bin\Debug\net6.0\ref\SortedSet-Kume-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\bin\Debug\net6.0\SortedSet-Kume-Uygulamalari.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\SortedSet-Kume-Uygulamalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\SortedSet-Kume-Uygulamalari.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\SortedSet-Kume-Uygulamalari.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\SortedSet-Kume-Uygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\SortedSet-Kume-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\ref\SortedSet-Kume-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\SortedSet-Kume-Uygulamalari.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\SortedSet-Kume-Uygulamalari\obj\Debug\net6.0\SortedSet-Kume-Uygulamalari.genruntimeconfig.cache

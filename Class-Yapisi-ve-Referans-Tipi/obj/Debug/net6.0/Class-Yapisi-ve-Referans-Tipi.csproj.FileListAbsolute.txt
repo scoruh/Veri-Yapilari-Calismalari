@@ -1,0 +1,14 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\bin\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\bin\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\bin\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\bin\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\bin\Debug\net6.0\ref\Class-Yapisi-ve-Referans-Tipi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\bin\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\ref\Class-Yapisi-ve-Referans-Tipi.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Class-Yapisi-ve-Referans-Tipi\obj\Debug\net6.0\Class-Yapisi-ve-Referans-Tipi.genruntimeconfig.cache

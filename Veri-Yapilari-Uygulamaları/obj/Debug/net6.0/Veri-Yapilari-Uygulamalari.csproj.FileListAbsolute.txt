@@ -1,0 +1,15 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\bin\Debug\net6.0\Veri-Yapilari-Uygulamalari.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\bin\Debug\net6.0\Veri-Yapilari-Uygulamalari.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\bin\Debug\net6.0\Veri-Yapilari-Uygulamalari.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\bin\Debug\net6.0\Veri-Yapilari-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\bin\Debug\net6.0\ref\Veri-Yapilari-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\bin\Debug\net6.0\Veri-Yapilari-Uygulamalari.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.csproj.AssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\ref\Veri-Yapilari-Uygulamalari.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Veri-Yapilari-Uygulamalari\obj\Debug\net6.0\Veri-Yapilari-Uygulamalari.genruntimeconfig.cache

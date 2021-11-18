@@ -1,0 +1,14 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\bin\Debug\net6.0\Recursive.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\bin\Debug\net6.0\Recursive.deps.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\bin\Debug\net6.0\Recursive.runtimeconfig.json
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\bin\Debug\net6.0\Recursive.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\bin\Debug\net6.0\ref\Recursive.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\bin\Debug\net6.0\Recursive.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfoInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfo.cs
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\Recursive.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\ref\Recursive.dll
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\Recursive.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Veri-Yapilari-Uygulamalari\Recursive\obj\Debug\net6.0\Recursive.genruntimeconfig.cache
